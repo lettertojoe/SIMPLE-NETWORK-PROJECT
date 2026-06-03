@@ -66,4 +66,9 @@ no ip domain-lookup
    network 30.0.0.0 0.0.0.255 area 0
 </details>
 >
+<h3>Delivery PC can ping Account PC</h3>
+<div>
+<img src="images\Delivery PC ping Account" alt="Ping">
+</div>
+
 
