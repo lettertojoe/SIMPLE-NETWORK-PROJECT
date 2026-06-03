@@ -54,6 +54,10 @@ no ip domain-lookup
   <summary>Delivery2</summary>  
   ip 192.168.40.131/25 192.168.40.129
 </details>
+<h3>Topology</h3>
+<div>
+  <img src="images\Simple.png" alt="Topology">
+</div>
 <!-- This comment other routers out
 <details> 
   <summary>R2</summary>
@@ -66,10 +70,7 @@ no ip domain-lookup
    network 30.0.0.0 0.0.0.255 area 0
 </details>
 >
-<h3>Topology</h3>
-<div>
-  <img src="images\Simple.png" alt="Topology">
-</div>
+
 
 
 
