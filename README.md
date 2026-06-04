@@ -1,4 +1,4 @@
-<h1>SIMPLE-NETWORK-PROJECT</h1>
+<h1>CASE STUDY</h1>
 <h2>DESCRIPTION</h2>
 <p>Design a network with two departments. Each department should contain at least two PCs.  The network address is 192.168.40.0. The PCs in each department should be able to ping the PCs in other deparment. <strong >Do not use VLAN</strong> .</p>
 <h3>Topology</h3>
